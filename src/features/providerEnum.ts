@@ -77,7 +77,7 @@ export enum ModelProvider {
   LeptonAI = 'leptonai',
   LlmApi = 'llmapi',
   LmStudio = 'lmstudio',
-  LobeHub = 'lobehub',
+  Hanzo = 'lobehub',
   LongCat = 'longcat',
   Menlo = 'menlo',
   Meta = 'meta',

@@ -3384,9 +3384,9 @@
     "color": "#fff",
     "desc": "https://lobehub.com",
     "docsUrl": "lobe-hub",
-    "fullTitle": "LobeHub",
+    "fullTitle": "Hanzo",
     "group": "provider",
-    "id": "LobeHub",
+    "id": "Hanzo",
     "param": {
       "hasAvatar": true,
       "hasBrand": false,
@@ -3397,7 +3397,7 @@
       "hasTextCn": false,
       "hasTextColor": false
     },
-    "title": "LobeHub"
+    "title": "Hanzo"
   },
   {
     "color": "#fff",

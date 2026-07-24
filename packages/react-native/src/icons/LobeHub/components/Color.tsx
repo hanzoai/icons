@@ -54,6 +54,6 @@ const Icon = memo<RNIconProps>(({ size = 24, style, ...rest }) => {
   );
 });
 
-Icon.displayName = 'LobeHubColor';
+Icon.displayName = 'HanzoColor';
 
 export default Icon;

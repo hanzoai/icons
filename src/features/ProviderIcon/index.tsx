@@ -43,7 +43,7 @@ const ProviderIcon = memo<ProviderIconProps>(
       }
       case 'mono': {
         if (!Render?.Icon) return <DefaultIcon {...props} />;
-        if (!forceMono && originProvider === ModelProvider.LobeHub) {
+        if (!forceMono && originProvider === ModelProvider.Hanzo) {
           // @ts-ignore
           return <Render.Icon.Color {...props} />;
         }

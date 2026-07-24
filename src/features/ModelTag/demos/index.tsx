@@ -1,4 +1,4 @@
-import { ModelTag, modelMappings } from '@lobehub/icons';
+import { ModelTag, modelMappings } from '@hanzoai/icons';
 import { Flexbox } from '@lobehub/ui';
 
 export default () => {

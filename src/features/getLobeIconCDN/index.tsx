@@ -6,11 +6,11 @@ export interface LobeIconCdnConfig {
 }
 
 const GITHUB_ICON_CDN = (type: LobeIconCdnConfig['format']) =>
-  `https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-${type}`;
+  `https://raw.githubusercontent.com/hanzoai/icons/refs/heads/master/packages/static-${type}`;
 const ALIYUN_ICON_CDN = (type: LobeIconCdnConfig['format']) =>
-  `https://registry.npmmirror.com/@lobehub/icons-static-${type}/latest/files`;
+  `https://registry.npmmirror.com/@hanzoai/icons-static-${type}/latest/files`;
 const UNPKG_ICON_CDN = (type: LobeIconCdnConfig['format']) =>
-  `https://unpkg.com/@lobehub/icons-static-${type}@latest`;
+  `https://unpkg.com/@hanzoai/icons-static-${type}@latest`;
 
 export const getLobeIconCDN = (id: string, config?: LobeIconCdnConfig): string => {
   const { format = 'png', isDarkMode = false, type = 'color', cdn = 'github' } = config || {};

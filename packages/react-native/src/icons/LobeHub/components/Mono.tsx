@@ -53,6 +53,6 @@ const Icon = memo<RNIconProps>(({ size = 24, style, ...rest }) => {
   );
 });
 
-Icon.displayName = 'LobeHubMono';
+Icon.displayName = 'HanzoMono';
 
 export default Icon;

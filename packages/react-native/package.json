@@ -1,5 +1,5 @@
 {
-  "name": "@lobehub/icons-rn",
+  "name": "@hanzoai/icons-rn",
   "version": "2.11.0",
   "description": "Popular AI / LLM Model Brand Icons for React Native and Expo",
   "keywords": [
@@ -12,16 +12,16 @@
     "react-native-svg",
     "mobile icons"
   ],
-  "homepage": "https://github.com/lobehub/lobe-icons",
+  "homepage": "https://github.com/hanzoai/icons",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-icons/issues/new"
+    "url": "https://github.com/hanzoai/icons/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-icons.git"
+    "url": "https://github.com/hanzoai/icons.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "Hanzo <i@lobehub.com>",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/index.js",

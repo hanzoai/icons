@@ -1,4 +1,4 @@
-import { ModelProvider, ProviderCombine } from '@lobehub/icons';
+import { ModelProvider, ProviderCombine } from '@hanzoai/icons';
 import { Flexbox } from '@lobehub/ui';
 
 export default () => {

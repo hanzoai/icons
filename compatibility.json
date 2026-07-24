@@ -267,7 +267,7 @@
   ],
   "documents": [
     {
-      "description": "New updates and improvements to @lobehub/icons",
+      "description": "New updates and improvements to @hanzoai/icons",
       "legacyRouteId": "docs/changelog",
       "pathname": "/changelog",
       "section": "Changelog",
@@ -275,7 +275,7 @@
       "title": "Changelog"
     },
     {
-      "description": "Icon Editor for @lobehub/icons",
+      "description": "Icon Editor for @hanzoai/icons",
       "legacyRouteId": "docs/editor/index",
       "pathname": "/editor",
       "section": "Guides",
@@ -284,7 +284,7 @@
     },
     {
       "category": "Features",
-      "description": "Guide to using agent icons from @lobehub/icons.",
+      "description": "Guide to using agent icons from @hanzoai/icons.",
       "legacyRouteId": "docs/features/agent-icon",
       "pathname": "/features/agent-icon",
       "section": "Guides",
@@ -293,7 +293,7 @@
     },
     {
       "category": "Utils",
-      "description": "Guide to resolving Lobe Icons assets through the public CDN utilities.",
+      "description": "Guide to resolving Hanzo Icons assets through the public CDN utilities.",
       "legacyRouteId": "docs/features/cdn-utils",
       "pathname": "/features/cdn-utils",
       "section": "Guides",
@@ -302,7 +302,7 @@
     },
     {
       "category": "Components",
-      "description": "Guide to composing icon avatars with @lobehub/icons.",
+      "description": "Guide to composing icon avatars with @hanzoai/icons.",
       "legacyRouteId": "docs/features/icon-avatar",
       "pathname": "/features/icon-avatar",
       "section": "Guides",
@@ -320,7 +320,7 @@
     },
     {
       "category": "Features",
-      "description": "Guide to rendering model icons with @lobehub/icons.",
+      "description": "Guide to rendering model icons with @hanzoai/icons.",
       "legacyRouteId": "docs/features/model-icon",
       "pathname": "/features/model-icon",
       "section": "Guides",
@@ -329,7 +329,7 @@
     },
     {
       "category": "Features",
-      "description": "Guide to rendering model tags with @lobehub/icons.",
+      "description": "Guide to rendering model tags with @hanzoai/icons.",
       "legacyRouteId": "docs/features/model-tag",
       "pathname": "/features/model-tag",
       "section": "Guides",
@@ -338,7 +338,7 @@
     },
     {
       "category": "Features",
-      "description": "Guide to rendering provider icons with @lobehub/icons.",
+      "description": "Guide to rendering provider icons with @hanzoai/icons.",
       "legacyRouteId": "docs/features/provder-icon",
       "pathname": "/features/provder-icon",
       "section": "Guides",
@@ -1957,11 +1957,11 @@
     {
       "category": "Provider",
       "description": "https://lobehub.com",
-      "legacyRouteId": "components/LobeHub/index",
+      "legacyRouteId": "components/Hanzo/index",
       "pathname": "/components/lobe-hub",
       "section": "Components",
-      "source": "src/LobeHub/index.mdx",
-      "title": "LobeHub"
+      "source": "src/Hanzo/index.mdx",
+      "title": "Hanzo"
     },
     {
       "category": "Model",

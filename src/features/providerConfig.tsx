@@ -75,7 +75,7 @@ import Lambda from '@/Lambda';
 import LeptonAI from '@/LeptonAI';
 import LlmApi from '@/LlmApi';
 import LmStudio from '@/LmStudio';
-import LobeHub from '@/LobeHub';
+import Hanzo from '@/Hanzo';
 import LongCat from '@/LongCat';
 import Menlo from '@/Menlo';
 import Meta from '@/Meta';
@@ -211,7 +211,7 @@ export const providerMappings: ProviderMapping[] = [
 
   { Icon: AiMass, keywords: [ModelProvider.AiMass] },
   { Icon: AiStudio, keywords: [ModelProvider.AiStudio] },
-  { Icon: LobeHub, combineMultiple: 1.1, keywords: [ModelProvider.LobeHub] },
+  { Icon: Hanzo, combineMultiple: 1.1, keywords: [ModelProvider.Hanzo] },
   {
     Icon: Zhipu,
     combineMultiple: 1.25,

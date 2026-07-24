@@ -74,7 +74,7 @@ import Lambda from '../icons/Lambda';
 import LeptonAI from '../icons/LeptonAI';
 import LlmApi from '../icons/LlmApi';
 import LmStudio from '../icons/LmStudio';
-import LobeHub from '../icons/LobeHub';
+import Hanzo from '../icons/Hanzo';
 import LongCat from '../icons/LongCat';
 import Menlo from '../icons/Menlo';
 import Meta from '../icons/Meta';
@@ -207,7 +207,7 @@ export const rnProviderMappings: RNProviderMapping[] = [
 
   { Icon: AiMass, keywords: [RNModelProvider.AiMass] },
   { Icon: AiStudio, keywords: [RNModelProvider.AiStudio] },
-  { Icon: LobeHub, combineMultiple: 1.1, keywords: [RNModelProvider.LobeHub] },
+  { Icon: Hanzo, combineMultiple: 1.1, keywords: [RNModelProvider.Hanzo] },
   {
     Icon: Zhipu,
     combineMultiple: 1.25,

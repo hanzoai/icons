@@ -1,4 +1,4 @@
-import { AgentIcon, agentMappings } from '@lobehub/icons';
+import { AgentIcon, agentMappings } from '@hanzoai/icons';
 import { Grid } from '@lobehub/ui';
 
 export default () => {

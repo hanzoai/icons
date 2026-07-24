@@ -234,7 +234,7 @@ export { default as LlamaIndex, type CompoundedIcon as LlamaIndexProps } from '.
 export { default as LLaVA, type CompoundedIcon as LLaVAProps } from './icons/LLaVA';
 export { default as LlmApi, type CompoundedIcon as LlmApiProps } from './icons/LlmApi';
 export { default as LmStudio, type CompoundedIcon as LmStudioProps } from './icons/LmStudio';
-export { default as LobeHub, type CompoundedIcon as LobeHubProps } from './icons/LobeHub';
+export { default as Hanzo, type CompoundedIcon as HanzoProps } from './icons/Hanzo';
 export { default as LongCat, type CompoundedIcon as LongCatProps } from './icons/LongCat';
 export { default as Lovable, type CompoundedIcon as LovableProps } from './icons/Lovable';
 export { default as Lovart, type CompoundedIcon as LovartProps } from './icons/Lovart';

@@ -15,8 +15,8 @@
     "types": ["vitest/globals"],
     "paths": {
       "@/*": ["src/*"],
-      "@lobehub/icons": ["src"],
-      "@lobehub/icons/*": ["src/*"]
+      "@hanzoai/icons": ["src"],
+      "@hanzoai/icons/*": ["src/*"]
     }
   },
   "exclude": [".react-router"],

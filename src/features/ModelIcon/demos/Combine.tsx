@@ -1,4 +1,4 @@
-import { ModelIcon, modelMappings } from '@lobehub/icons';
+import { ModelIcon, modelMappings } from '@hanzoai/icons';
 import { Grid } from '@lobehub/ui';
 
 export default () => {

@@ -1,4 +1,4 @@
-export const TITLE = 'LobeHub';
+export const TITLE = 'Hanzo';
 export const COMBINE_TEXT_MULTIPLE = 0.6;
 export const COMBINE_SPACE_MULTIPLE = 0.2;
 export const COLOR_PRIMARY = '#fff';

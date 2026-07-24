@@ -23,7 +23,7 @@ import HermesAgent from '@/HermesAgent';
 import Junie from '@/Junie';
 import KiloCode from '@/KiloCode';
 import Kimi from '@/Kimi';
-import LobeHub from '@/LobeHub';
+import Hanzo from '@/Hanzo';
 import Manus from '@/Manus';
 import MetaAI from '@/MetaAI';
 import Microsoft from '@/Microsoft';
@@ -65,7 +65,7 @@ export interface AgentMapping {
 // Create a mapping of agent keywords to their respective Icon functions
 export const agentMappings: AgentMapping[] = [
   {
-    Icon: LobeHub,
+    Icon: Hanzo,
     keywords: ['lobehub', 'lobechat', 'lobe-chat', 'lobe-agent', 'lobe-ai', 'lobeai', 'lobe'],
   },
   { Icon: ClaudeCode, keywords: ['claude-code', 'claudecode', 'claude-co'] },

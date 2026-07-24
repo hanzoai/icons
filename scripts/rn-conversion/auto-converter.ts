@@ -303,7 +303,7 @@ class AutoConverter {
   async execute(options: ConversionOptions = {}): Promise<boolean> {
     const startTime = Date.now();
 
-    console.log('🚀 Lobe Icons 自动转换器');
+    console.log('🚀 Hanzo Icons 自动转换器');
     console.log('================================\n');
 
     // 分析转换状态
@@ -355,7 +355,7 @@ class AutoConverter {
 // 显示帮助信息
 function showHelp() {
   console.log(`
-🚀 Lobe Icons 自动转换器
+🚀 Hanzo Icons 自动转换器
 
 用法:
   npx tsx auto-converter.ts [选项]

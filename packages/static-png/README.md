@@ -6,7 +6,7 @@
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.png">
 <img height="120" src="https://registry.npmmirror.com/@lobehub/fluent-emoji-3d/1.1.0/files/assets/1f968.webp">
 
-# Lobe Icons
+# Hanzo Icons
 
 `Static PNG`
 
@@ -30,7 +30,7 @@ Contributions, corrections & requests can be made on GitHub.
 [![][github-issues-shield]][github-issues-link]
 [![][github-license-shield]][github-license-link]
 
-![](https://github.com/lobehub/lobe-icons/assets/17870709/7e2c56d2-d7ea-4cb8-842b-22de162d6486)
+![](https://github.com/hanzoai/icons/assets/17870709/7e2c56d2-d7ea-4cb8-842b-22de162d6486)
 
 </div>
 
@@ -43,20 +43,20 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/[ICON SLUG].png"
+    srcset="https://unpkg.com/@hanzoai/icons-static-png@latest/dark/[ICON SLUG].png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/[ICON SLUG].png" />
+  <img height="64" src="https://unpkg.com/@hanzoai/icons-static-png@latest/light/[ICON SLUG].png" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/[ICON SLUG].png"
+    srcset="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/dark/[ICON SLUG].png"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/[ICON SLUG].png"
+    src="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/light/[ICON SLUG].png"
   />
 </picture>
 ```
@@ -64,8 +64,8 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 ### Example
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/dark/openai.png">
+  <img height="64" src="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/light/openai.png">
 </picture>
 
 ```html
@@ -73,27 +73,27 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/open-ai.png"
+    srcset="https://unpkg.com/@hanzoai/icons-static-png@latest/dark/open-ai.png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" />
+  <img height="64" src="https://unpkg.com/@hanzoai/icons-static-png@latest/light/openai.png" />
 </picture>
 
 <!--ALIYUN-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
+    srcset="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/dark/openai.png"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png"
+    src="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/light/openai.png"
   />
 </picture>
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/open-ai-text.png">
-  <img height="64" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/open-ai-text.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/dark/open-ai-text.png">
+  <img height="64" src="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/light/open-ai-text.png">
 </picture>
 
 ```html
@@ -101,9 +101,9 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai-text.png"
+    srcset="https://unpkg.com/@hanzoai/icons-static-png@latest/dark/openai-text.png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai-text.png" />
+  <img height="64" src="https://unpkg.com/@hanzoai/icons-static-png@latest/light/openai-text.png" />
 </picture>
 
 <!--ALIYUN-->
@@ -111,12 +111,12 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai-text.png
+      https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/dark/openai-text.png
     "
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai-text.png"
+    src="https://registry.npmmirror.com/@hanzoai/icons-static-png/latest/files/light/openai-text.png"
   />
 </picture>
 ```
@@ -131,9 +131,9 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 
 | Package                                                                                | FileType | Version                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@lobehub/icons-static-svg](https://www.npmjs.com/package/@lobehub/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-svg)   |
-| [@lobehub/icons-static-png](https://www.npmjs.com/package/@lobehub/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@lobehub/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-png)   |
-| [@lobehub/icons-static-webp](https://www.npmjs.com/package/@lobehub/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@lobehub/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@lobehub/icons-static-webp) |
+| [@hanzoai/icons-static-svg](https://www.npmjs.com/package/@hanzoai/icons-static-svg)   | `SVG`    | [![](https://img.shields.io/npm/v/@hanzoai/icons-static-svg?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@hanzoai/icons-static-svg)   |
+| [@hanzoai/icons-static-png](https://www.npmjs.com/package/@hanzoai/icons-static-png)   | `PNG`    | [![](https://img.shields.io/npm/v/@hanzoai/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@hanzoai/icons-static-png)   |
+| [@hanzoai/icons-static-webp](https://www.npmjs.com/package/@hanzoai/icons-static-webp) | `WEBP`   | [![](https://img.shields.io/npm/v/@hanzoai/icons-static-webp?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/package/@hanzoai/icons-static-webp) |
 
 <div align="right">
 
@@ -149,7 +149,7 @@ Icons can be served from a CDN such as **unpkg** or **npmmirror (aliyun)**. Simp
 
 </details>
 
-Copyright © 2023 [LobeHub][profile-link]. <br />
+Copyright © 2023 [Hanzo][profile-link]. <br />
 This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
@@ -158,26 +158,26 @@ This project is [MIT](./LICENSE) licensed.
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [fossa-license-link]: https://app.fossa.com/projects/git%2Bgithub.com%2Flobehub%2Flobe-icons
 [fossa-license-shield]: https://app.fossa.com/api/projects/git%2Bgithub.com%2Flobehub%2Flobe-icons.png?type=large
-[github-action-release-link]: https://github.com/actions/workflows/lobehub/lobe-icons/release.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-icons/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/actions/workflows/lobehub/lobe-icons/test.yml
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/lobehub/lobe-icons/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-contributors-link]: https://github.com/lobehub/lobe-icons/graphs/contributors
-[github-contributors-shield]: https://img.shields.io/github/contributors/lobehub/lobe-icons?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/lobehub/lobe-icons/network/members
-[github-forks-shield]: https://img.shields.io/github/forks/lobehub/lobe-icons?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/lobehub/lobe-icons/issues
-[github-issues-shield]: https://img.shields.io/github/issues/lobehub/lobe-icons?color=ff80eb&labelColor=black&style=flat-square
-[github-license-link]: https://github.com/lobehub/lobe-icons/blob/master/LICENSE
-[github-license-shield]: https://img.shields.io/github/license/lobehub/lobe-icons?color=white&labelColor=black&style=flat-square
-[github-releasedate-link]: https://github.com/lobehub/lobe-icons/releases
-[github-releasedate-shield]: https://img.shields.io/github/release-date/lobehub/lobe-icons?labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/lobehub/lobe-icons/network/stargazers
-[github-stars-shield]: https://img.shields.io/github/stars/lobehub/lobe-icons?color=ffcb47&labelColor=black&style=flat-square
-[npm-downloads-link]: https://www.npmjs.com/package/@lobehub/icons-static-png
-[npm-downloads-shield]: https://img.shields.io/npm/dt/@lobehub/icons-static-png?labelColor=black&style=flat-square
-[npm-release-link]: https://www.npmjs.com/package/@lobehub/icons-static-png
-[npm-release-shield]: https://img.shields.io/npm/v/@lobehub/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[github-action-release-link]: https://github.com/actions/workflows/hanzoai/icons/release.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/hanzoai/icons/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/actions/workflows/hanzoai/icons/test.yml
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/hanzoai/icons/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-contributors-link]: https://github.com/hanzoai/icons/graphs/contributors
+[github-contributors-shield]: https://img.shields.io/github/contributors/hanzoai/icons?color=c4f042&labelColor=black&style=flat-square
+[github-forks-link]: https://github.com/hanzoai/icons/network/members
+[github-forks-shield]: https://img.shields.io/github/forks/hanzoai/icons?color=8ae8ff&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/hanzoai/icons/issues
+[github-issues-shield]: https://img.shields.io/github/issues/hanzoai/icons?color=ff80eb&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/hanzoai/icons/blob/master/LICENSE
+[github-license-shield]: https://img.shields.io/github/license/hanzoai/icons?color=white&labelColor=black&style=flat-square
+[github-releasedate-link]: https://github.com/hanzoai/icons/releases
+[github-releasedate-shield]: https://img.shields.io/github/release-date/hanzoai/icons?labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/hanzoai/icons/network/stargazers
+[github-stars-shield]: https://img.shields.io/github/stars/hanzoai/icons?color=ffcb47&labelColor=black&style=flat-square
+[npm-downloads-link]: https://www.npmjs.com/package/@hanzoai/icons-static-png
+[npm-downloads-shield]: https://img.shields.io/npm/dt/@hanzoai/icons-static-png?labelColor=black&style=flat-square
+[npm-release-link]: https://www.npmjs.com/package/@hanzoai/icons-static-png
+[npm-release-shield]: https://img.shields.io/npm/v/@hanzoai/icons-static-png?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [profile-link]: https://github.com/lobehub
 [vercel-link]: https://icons.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fui.lobehub.com

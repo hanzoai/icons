@@ -1,5 +1,5 @@
 {
-  "name": "@lobehub/icons",
+  "name": "@hanzoai/icons",
   "version": "5.14.0",
   "description": "Popular AI / LLM Model Brand SVG Logo and Icon Collection",
   "keywords": [
@@ -9,16 +9,16 @@
     "react components",
     "svg icons"
   ],
-  "homepage": "https://github.com/lobehub/lobe-icons",
+  "homepage": "https://github.com/hanzoai/icons",
   "bugs": {
-    "url": "https://github.com/lobehub/lobe-icons/issues/new"
+    "url": "https://github.com/hanzoai/icons/issues/new"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lobehub/lobe-icons.git"
+    "url": "https://github.com/hanzoai/icons.git"
   },
   "license": "MIT",
-  "author": "LobeHub <i@lobehub.com>",
+  "author": "Hanzo <i@lobehub.com>",
   "sideEffects": false,
   "main": "es/index.js",
   "module": "es/index.js",
@@ -57,7 +57,7 @@
     "release:static": "multi-semantic-release --sequential-prepare --debug",
     "setup": "lobedocs typegen",
     "start": "npm run dev",
-    "sync:cnpm": "cnpm sync @lobehub/icons-static-svg @lobehub/icons-static-png @lobehub/icons-static-webp @lobehub/icons-static-avatar",
+    "sync:cnpm": "cnpm sync @hanzoai/icons-static-svg @hanzoai/icons-static-png @hanzoai/icons-static-webp @hanzoai/icons-static-avatar",
     "sync:md": "npm run build:toc && tsx scripts/readmeWorkflow/index.ts",
     "test": "vitest --passWithNoTests",
     "test:coverage": "vitest run --coverage  --passWithNoTests",

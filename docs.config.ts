@@ -8,7 +8,7 @@ const legacyRedirects = compatibility as DocumentationInventory;
 export default defineDocsConfig({
   alias: {
     '@': 'src',
-    '@lobehub/icons': 'src',
+    '@hanzoai/icons': 'src',
   },
   atomDirs: [{ dir: 'src', subType: 'components', type: 'component' }],
   description: 'Popular AI / LLM Model Brand SVG Logo and Icon Collection',
@@ -39,15 +39,15 @@ export default defineDocsConfig({
     },
     apiHeader: {
       docUrl: '{github}/edit/master/{atomId}',
-      github: 'https://github.com/lobehub/lobe-icons',
+      github: 'https://github.com/hanzoai/icons',
       match: ['/components/'],
-      packageName: '@lobehub/icons',
+      packageName: '@hanzoai/icons',
       sourceUrl: '{github}/tree/master/{atomId}',
     },
     giscus: {
       category: 'Q&A',
       categoryId: 'DIC_kwDOLLYRIs4Cin-i',
-      repo: 'lobehub/lobe-icons',
+      repo: 'hanzoai/icons',
       repoId: 'R_kgDOLLYRIg',
     },
     metadata: {
@@ -64,17 +64,17 @@ export default defineDocsConfig({
     prefersColor: 'dark',
     socialLinks: [
       {
-        href: 'https://github.com/lobehub/lobe-icons',
+        href: 'https://github.com/hanzoai/icons',
         icon: 'github',
         label: 'GitHub',
       },
       { href: 'https://discord.gg/AYFPHvv2jT', icon: 'discord', label: 'Discord' },
       {
-        href: 'https://www.npmjs.com/package/@lobehub/icons',
+        href: 'https://www.npmjs.com/package/@hanzoai/icons',
         icon: 'npm',
         label: 'NPM',
       },
     ],
   },
-  title: 'Lobe Icons',
+  title: 'Hanzo Icons',
 });
