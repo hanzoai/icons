@@ -1,0 +1,14 @@
+# Canonical CI/CD config for hanzoai/icons — read by hanzoai/ci (via
+# .hanzo/workflows/cicd.yml) and by platform.hanzo.ai.
+#
+# Library (pnpm workspace, React components). The gate is `tsc --noEmit` over
+# src/: every icon is a typed component, so the typecheck is what fails when one
+# is malformed. The `build` script is not the gate — its first step shells out
+# to `bun`, which is not a toolchain this fleet provisions, so it would fail for
+# a reason that has nothing to do with the code.
+#
+# No lockfile is committed, hence the non-frozen install; pnpm via npx at a
+# pinned major because there is no `packageManager` field for corepack to read.
+test:
+  - name: typecheck
+    run: npx --yes pnpm@10 install --no-frozen-lockfile && npx --yes pnpm@10 run type-check
